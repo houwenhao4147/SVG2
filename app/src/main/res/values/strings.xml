@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="account">&#xe61e;</string>
+
+    <string name="brand">&#xe61d;</string>
+
+    <string name="tool">&#xe61b;</string>
+
+    <string name="house">&#xe61f;</string>
+</resources>
